@@ -1,3 +1,8 @@
+/frontend/node_modules
+/pythoncore/components/__pycache__
+.DS_Store
+/frontend/package-lock.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
