@@ -1,4 +1,4 @@
-## Laeyerz Playground is an Open-Source Library designed to help developers experiment with LLM, RAG and Agents.
+## Laeyerz Studio is an Open-Source Environment designed to help developers experiment with LLM, RAG and Agents.
 
-## It uses the Laeyerz Open-Source library.
+## It uses the Laeyerz Open-Source library at its core to construct llm apps.
 
